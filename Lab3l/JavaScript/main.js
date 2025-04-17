@@ -127,6 +127,7 @@ let draw = (dataForm) => {
                             scale(${dataForm.xscale.value},
                                   ${dataForm.yscale.value}) 
                             rotate(${dataForm.angle.value})`);
+    moveRight(pict);
 }
 
 let clearForm = (dataForm) => {

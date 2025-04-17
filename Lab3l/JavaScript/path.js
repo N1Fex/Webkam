@@ -30,7 +30,7 @@ function createPathCircle() {
     let data = [];
     // используем параметрическую форму описания круга
     // центр расположен в центре svg-элемента, а радиус равен трети высоты/ширины
-    for (let t = Math.PI ; t <= Math.PI * 2; t += 0.1) {
+    for (let t = 0 ; t <= Math.PI * 2; t += 0.1) {
         data.push(
             {x: width / 2 + width / 3 * Math.sin(t),
                 y: height / 2 + height / 3 * Math.cos(t)}
