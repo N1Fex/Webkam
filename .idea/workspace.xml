@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ab69c3-d882-46c5-82b3-c37465c6b007" name="Changes" comment="Initial commit lab5l" />
+    <list default="true" id="76ab69c3-d882-46c5-82b3-c37465c6b007" name="Changes" comment="Laba3">
+      <change beforePath="$PROJECT_DIR$/Lab3/JavaScript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/JavaScript/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,31 +16,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="lab5l-dev" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;N1Fex&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "N1Fex"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/N1Fex/Webkam.git&quot;,
-    &quot;accountId&quot;: &quot;925da11d-8092-4374-8717-e0168113a30c&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/N1Fex/Webkam.git",
+    "accountId": "30a5989b-5e66-46b2-a33f-fd14a7283bde"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -54,14 +51,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
-    "Node.js.graph.js.executor": "Run",
-    "Node.js.index.js.executor": "Run",
     "Node.js.main.js.executor": "Run",
-    "Node.js.program.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IDEA projects/Webkam/lab5l",
+    "last_opened_file_path": "D:/FinchTries/Webkam/Lab3l",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,16 +76,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA projects\Webkam\lab5l\src\images" />
-      <recent name="D:\FinchTries\Webkam\Lab4\CSS" />
-      <recent name="D:\FinchTries\Webkam\Lab4\JavaScript" />
-      <recent name="D:\FinchTries\Webkam\Lab4" />
       <recent name="D:\FinchTries\Webkam\Lab2l" />
+      <recent name="D:\FinchTries\Webkam\Lab2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\FinchTries\Webkam\Lab4l\JavaScript" />
-      <recent name="D:\FinchTries\Webkam\Lab4l" />
-      <recent name="D:\FinchTries\Webkam\\" />
       <recent name="D:\FinchTries\Webkam\Lab3l" />
       <recent name="D:\FinchTries\Webkam\Lab1" />
     </key>
@@ -113,21 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743168724720</updated>
       <workItem from="1743168725814" duration="8021000" />
-      <workItem from="1743323922456" duration="25578000" />
-      <workItem from="1743565273020" duration="97000" />
-      <workItem from="1743566715441" duration="2890000" />
-      <workItem from="1743577478084" duration="12414000" />
-      <workItem from="1743925333687" duration="46000" />
-      <workItem from="1743925633941" duration="186000" />
-      <workItem from="1744170621718" duration="2789000" />
-      <workItem from="1744543144694" duration="13443000" />
-      <workItem from="1744596265029" duration="15000" />
-      <workItem from="1744601407247" duration="1767000" />
-      <workItem from="1744637175534" duration="6000" />
-      <workItem from="1744774992375" duration="193000" />
-      <workItem from="1744777328104" duration="1497000" />
-      <workItem from="1744804334209" duration="2387000" />
-      <workItem from="1744850040653" duration="1892000" />
+      <workItem from="1743323922456" duration="21151000" />
     </task>
     <task id="LOCAL-00001" summary="Laba3">
       <option name="closed" value="true" />
@@ -137,31 +111,7 @@
       <option name="project" value="LOCAL" />
       <updated>1743491280341</updated>
     </task>
-    <task id="LOCAL-00002" summary="Laba3">
-      <option name="closed" value="true" />
-      <created>1743491323851</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743491323851</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Laba3">
-      <option name="closed" value="true" />
-      <created>1743491375383</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743491375383</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Initial commit lab5l">
-      <option name="closed" value="true" />
-      <created>1744777824221</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1744777824221</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,19 +122,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="lab5l-dev" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -192,7 +130,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Laba3" />
-    <MESSAGE value="Initial commit lab5l" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit lab5l" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laba3" />
   </component>
 </project>
